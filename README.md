@@ -1,2 +1,2 @@
 # InteractiveNotebookPY
-This interactive notebook was developed in the first semester by students Leonardo Valentim, Natasha Teixeira, and Priscila Rios, enrolled in the Computer Science program, under the guidance of Professor Patrick in Introduction to Programming.
+This interactive notebook was developed in the first semester by students Leonardo Valentim, Natasha Teixeira, and Priscila Rios, enrolled in the Computer Science program, under the guidance of Professor Patrick in Introduction to Programming. The purpose of this notebook is to serve as a study resource for those who are beginning their journey in the field of programming and wish to start with Python. The content is highly intuitive and includes numerous examples and exercises.
